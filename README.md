@@ -1,0 +1,1 @@
+Simple Currency Exchange Service with Django made with PythonToday lecture
