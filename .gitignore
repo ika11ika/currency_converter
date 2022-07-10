@@ -1,1 +1,5 @@
 /venv
+.gitignore
+/app/app/__pycache__
+/app/exchange_app/__pycache__
+/app/exchange_app/migrations/__pycache__
